@@ -1,0 +1,202 @@
+world_bank_name,united_nations_name,sub_saharan_africa,drop_country,world_bank_code,world_bank_classification,jdrf_region_name,jdrf_broad_region_name,jdrf_broad_region_code,legacy_region_code,legacy_region_name,loc_id,broad_region_id,region_id
+Afghanistan,Afghanistan,FALSE,FALSE,AFG,LIC,South Asia,Asia-Pacific,APAC,EMME,Middle East & North Africa,4,2,10
+Albania,Albania,FALSE,FALSE,ALB,UMIC,Western Europe,Europe,EUR,EUR,Europe,8,3,13
+Algeria,Algeria,FALSE,FALSE,DZA,UMIC,North Africa,Middle East and Africa,MEA,EMME,Middle East & North Africa,12,4,7
+Angola,Angola,TRUE,FALSE,AGO,LMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,24,4,12
+Antigua and Barbuda,Antigua and Barbuda,FALSE,FALSE,ATG,HIC,Central America and The Caribbean,Americas,AMER,NAC,North America & Carribbean,28,1,2
+Argentina,Argentina,FALSE,FALSE,ARG,HIC,South America,Americas,AMER,SACA,South America & Central America,32,1,9
+Armenia,Armenia,FALSE,FALSE,ARM,UMIC,Middle East,Middle East and Africa,MEA,EUR,Europe,51,4,5
+Aruba,Aruba,FALSE,TRUE,ABW,HIC,Central America and The Caribbean,Americas,AMER,N/A,North America & Carribbean,533,1,2
+Australia,Australia,FALSE,FALSE,AUS,HIC,Australasia,Asia-Pacific,MEA,WP,Western Pacific,36,2,1
+Austria,Austria,FALSE,FALSE,AUT,HIC,Western Europe,Europe,EUR,EUR,Europe,40,3,13
+Azerbaijan,Azerbaijan,FALSE,FALSE,AZE,UMIC,Middle East,Middle East and Africa,MEA,EUR,Europe,31,4,5
+Bahamas,Bahamas,FALSE,FALSE,BHS,HIC,Central America and The Caribbean,Americas,AMER,NAC,North America & Carribbean,44,1,2
+Bahrain,Bahrain,FALSE,FALSE,BHR,HIC,Middle East,Middle East and Africa,MEA,EMME,Middle East & North Africa,48,4,5
+Bangladesh,Bangladesh,FALSE,FALSE,BGD,LMIC,South Asia,Asia-Pacific,APAC,SEA,South Asia,50,2,10
+Barbados,Barbados,FALSE,FALSE,BRB,HIC,Central America and The Caribbean,Americas,AMER,NAC,North America & Carribbean,52,1,2
+Belarus,Belarus,FALSE,FALSE,BLR,UMIC,Eastern Europe,Europe,EUR,EUR,Europe,112,3,4
+Belgium,Belgium,FALSE,FALSE,BEL,HIC,Western Europe,Europe,EUR,EUR,Europe,56,3,13
+Belize,Belize,FALSE,FALSE,BLZ,UMIC,Central America and The Caribbean,Americas,AMER,NAC,North America & Carribbean,84,1,2
+Benin,Benin,TRUE,FALSE,BEN,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,204,4,12
+Bhutan,Bhutan,FALSE,FALSE,BTN,LMIC,South Asia,Asia-Pacific,APAC,SEA,South Asia,64,2,10
+Bolivia,Bolivia (Plurinational State of),FALSE,FALSE,BOL,LMIC,South America,Americas,AMER,SACA,South America & Central America,68,1,9
+Bosnia and Herzegovina,Bosnia and Herzegovina,FALSE,FALSE,BIH,UMIC,Western Europe,Europe,EUR,EUR,Europe,70,3,13
+Botswana,Botswana,TRUE,FALSE,BWA,UMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,72,4,12
+Brazil,Brazil,FALSE,FALSE,BRA,UMIC,South America,Americas,AMER,SACA,South America & Central America,76,1,9
+Brunei Darussalam,Brunei Darussalam,FALSE,FALSE,BRN,HIC,South-East Asia,Asia-Pacific,APAC,WP,Western Pacific,96,2,11
+Bulgaria,Bulgaria,FALSE,FALSE,BGR,UMIC,Eastern Europe,Europe,EUR,EUR,Europe,100,3,4
+Burkina Faso,Burkina Faso,TRUE,FALSE,BFA,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,854,4,12
+Burundi,Burundi,TRUE,FALSE,BDI,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,108,4,12
+Cambodia,Cambodia,FALSE,FALSE,KHM,LMIC,South-East Asia,Asia-Pacific,APAC,WP,Western Pacific,116,2,11
+Cameroon,Cameroon,TRUE,FALSE,CMR,LMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,120,4,12
+Canada,Canada,FALSE,FALSE,CAN,HIC,North America,Americas,AMER,NAC,North America & Carribbean,124,1,8
+Cape Verde,Cabo Verde,TRUE,FALSE,CPV,LMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,132,4,12
+Central African Republic,Central African Republic,TRUE,FALSE,CAF,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,140,4,12
+Chad,Chad,TRUE,FALSE,TCD,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,148,4,12
+Channel Islands,Channel Islands,FALSE,TRUE,CHI,HIC,Western Europe,Europe,EUR,N/A,Europe,830,3,13
+Chile,Chile,FALSE,FALSE,CHL,HIC,South America,Americas,AMER,SACA,South America & Central America,152,1,9
+China,China,FALSE,FALSE,CHN,UMIC,East Asia,Asia-Pacific,APAC,WP,Western Pacific,156,2,3
+"China, Hong Kong SAR","China, Hong Kong SAR",FALSE,FALSE,HKG,HIC,East Asia,Asia-Pacific,APAC,N/A,N/A,344,2,3
+"China, Macao SAR","China, Macao SAR",FALSE,FALSE,MAC,HIC,East Asia,Asia-Pacific,APAC,N/A,N/A,446,2,3
+"China, Taiwan Province of China","China, Taiwan Province of China",FALSE,FALSE,TWN,HIC,East Asia,Asia-Pacific,APAC,N/A,N/A,158,2,3
+Colombia,Colombia,FALSE,FALSE,COL,UMIC,South America,Americas,AMER,SACA,South America & Central America,170,1,9
+Comoros,Comoros,TRUE,FALSE,COM,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,174,4,12
+Costa Rica,Costa Rica,FALSE,FALSE,CRI,UMIC,Central America and The Caribbean,Americas,AMER,SACA,South America & Central America,188,1,2
+Cote d'Ivoire,Côte d'Ivoire,TRUE,FALSE,CIV,LMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,384,4,12
+Croatia,Croatia,FALSE,FALSE,HRV,HIC,Western Europe,Europe,EUR,EUR,Europe,191,3,13
+Cuba,Cuba,FALSE,FALSE,CUB,UMIC,Central America and The Caribbean,Americas,AMER,SACA,South America & Central America,192,1,2
+Curaçao,Curaçao,FALSE,TRUE,CUW,HIC,Central America and The Caribbean,Americas,AMER,N/A,N/A,531,1,2
+Cyprus,Cyprus,FALSE,FALSE,CYP,HIC,Middle East,Middle East and Africa,MEA,EUR,Europe,196,4,5
+Czech Republic,Czechia,FALSE,FALSE,CZE,HIC,Eastern Europe,Europe,EUR,EUR,Europe,203,3,4
+Democratic People's Republic of Korea,Dem. People's Republic of Korea,FALSE,FALSE,PRK,LIC,East Asia,Asia-Pacific,APAC,WP,Western Pacific,408,2,3
+Democratic Republic of the Congo,Democratic Republic of the Congo,TRUE,FALSE,COD,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,180,4,12
+Denmark,Denmark,FALSE,FALSE,DNK,HIC,Nordic Countries,Europe,EUR,EUR,Europe,208,3,6
+Djibouti,Djibouti,TRUE,FALSE,DJI,LMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,262,4,12
+Dominican Republic,Dominican Republic,FALSE,FALSE,DOM,UMIC,Central America and The Caribbean,Americas,AMER,SACA,South America & Central America,214,1,2
+Ecuador,Ecuador,FALSE,FALSE,ECU,UMIC,South America,Americas,AMER,SACA,South America & Central America,218,1,9
+Egypt,Egypt,FALSE,FALSE,EGY,LMIC,North Africa,Middle East and Africa,MEA,EMME,Middle East & North Africa,818,4,7
+El Salvador,El Salvador,FALSE,FALSE,SLV,LMIC,Central America and The Caribbean,Americas,AMER,SACA,South America & Central America,222,1,2
+Equatorial Guinea,Equatorial Guinea,TRUE,FALSE,GNQ,UMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,226,4,12
+Eritrea,Eritrea,TRUE,FALSE,ERI,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,232,4,12
+Estonia,Estonia,FALSE,FALSE,EST,HIC,Western Europe,Europe,EUR,EUR,Europe,233,3,13
+Ethiopia,Ethiopia,TRUE,FALSE,ETH,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,231,4,12
+Federated States of Micronesia,Micronesia (Fed. States of),FALSE,FALSE,FSM,LMIC,Oceania,Asia-Pacific,APAC,WP,Western Pacific,583,2,11
+Fiji,Fiji,FALSE,FALSE,FJI,UMIC,Oceania,Asia-Pacific,APAC,WP,Western Pacific,242,2,11
+Finland,Finland,FALSE,FALSE,FIN,HIC,Nordic Countries,Europe,EUR,EUR,Europe,246,3,6
+France,France,FALSE,FALSE,FRA,HIC,Western Europe,Europe,EUR,EUR,Europe,250,3,13
+French Guiana,French Guiana,FALSE,TRUE,GUF,UMIC,South America,Americas,AMER,N/A,N/A,254,1,9
+French Polynesia,French Polynesia,FALSE,TRUE,PYF,HIC,Oceania,Asia-Pacific,APAC,N/A,N/A,258,2,11
+Gabon,Gabon,TRUE,FALSE,GAB,UMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,266,4,12
+Gambia,Gambia,TRUE,FALSE,GMB,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,270,4,12
+Georgia,Georgia,FALSE,FALSE,GEO,LMIC,Middle East,Middle East and Africa,MEA,EUR,Europe,268,4,5
+Germany,Germany,FALSE,FALSE,DEU,HIC,Western Europe,Europe,EUR,EUR,Europe,276,3,13
+Ghana,Ghana,TRUE,FALSE,GHA,LMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,288,4,12
+Greece,Greece,FALSE,FALSE,GRC,HIC,Western Europe,Europe,EUR,EUR,Europe,300,3,13
+Grenada,Grenada,FALSE,FALSE,GRD,UMIC,Central America and The Caribbean,Americas,AMER,NAC,North America & Carribbean,308,1,2
+Guadeloupe,Guadeloupe,FALSE,TRUE,GLP,UMIC,Central America and The Caribbean,Americas,AMER,N/A,N/A,312,1,2
+Guam,Guam,FALSE,TRUE,GUM,HIC,Oceania,Asia-Pacific,APAC,N/A,N/A,316,2,11
+Guatemala,Guatemala,FALSE,FALSE,GTM,UMIC,Central America and The Caribbean,Americas,AMER,SACA,South America & Central America,320,1,2
+Guinea,Guinea,TRUE,FALSE,GIN,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,324,4,12
+Guinea-Bissau,Guinea-Bissau,TRUE,FALSE,GNB,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,624,4,12
+Guyana,Guyana,FALSE,FALSE,GUY,UMIC,South America,Americas,AMER,NAC,North America & Carribbean,328,1,9
+Haiti,Haiti,FALSE,FALSE,HTI,LIC,Central America and The Caribbean,Americas,AMER,NAC,North America & Carribbean,332,1,2
+Honduras,Honduras,FALSE,FALSE,HND,LMIC,Central America and The Caribbean,Americas,AMER,SACA,South America & Central America,340,1,2
+Hungary,Hungary,FALSE,FALSE,HUN,HIC,Eastern Europe,Europe,EUR,EUR,Europe,348,3,4
+Iceland,Iceland,FALSE,FALSE,ISL,HIC,Nordic Countries,Europe,EUR,EUR,Europe,352,3,6
+India,India,FALSE,FALSE,IND,LMIC,South Asia,Asia-Pacific,APAC,SEA,South Asia,356,2,10
+Indonesia,Indonesia,FALSE,FALSE,IDN,LMIC,South-East Asia,Asia-Pacific,APAC,WP,Western Pacific,360,2,11
+Iraq,Iraq,FALSE,FALSE,IRQ,UMIC,Middle East,Middle East and Africa,MEA,EMME,Middle East & North Africa,368,4,5
+Ireland,Ireland,FALSE,FALSE,IRL,HIC,Western Europe,Europe,EUR,EUR,Europe,372,3,13
+Islamic Republic of Iran,Iran (Islamic Republic of),FALSE,FALSE,IRN,UMIC,South Asia,Asia-Pacific,APAC,EMME,Middle East & North Africa,364,2,10
+Israel,Israel,FALSE,FALSE,ISR,HIC,Middle East,Middle East and Africa,MEA,EUR,Europe,376,4,5
+Italy,Italy,FALSE,FALSE,ITA,HIC,Western Europe,Europe,EUR,EUR,Europe,380,3,13
+Jamaica,Jamaica,FALSE,FALSE,JAM,UMIC,Central America and The Caribbean,Americas,AMER,NAC,North America & Carribbean,388,1,2
+Japan,Japan,FALSE,FALSE,JPN,HIC,East Asia,Asia-Pacific,APAC,WP,Western Pacific,392,2,3
+Jordan,Jordan,FALSE,FALSE,JOR,UMIC,Middle East,Middle East and Africa,MEA,EMME,Middle East & North Africa,400,4,5
+Kazakhstan,Kazakhstan,FALSE,FALSE,KAZ,UMIC,Central Asia,Asia-Pacific,APAC,EUR,Europe,398,2,4
+Kenya,Kenya,TRUE,FALSE,KEN,LMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,404,4,12
+Kiribati,Kiribati,FALSE,FALSE,KIR,LMIC,Oceania,Asia-Pacific,APAC,WP,Western Pacific,296,2,11
+Kuwait,Kuwait,FALSE,FALSE,KWT,HIC,Middle East,Middle East and Africa,MEA,EMME,Middle East & North Africa,414,4,5
+Kyrgyzstan,Kyrgyzstan,FALSE,FALSE,KGZ,LMIC,Central Asia,Asia-Pacific,APAC,EUR,Europe,417,2,4
+Lao People's Democratic Republic,Lao People's Democratic Republic,FALSE,FALSE,LAO,LMIC,South-East Asia,Asia-Pacific,APAC,WP,Western Pacific,418,2,11
+Latvia,Latvia,FALSE,FALSE,LVA,HIC,Western Europe,Europe,EUR,EUR,Europe,428,3,13
+Lebanon,Lebanon,FALSE,FALSE,LBN,UMIC,Middle East,Middle East and Africa,MEA,EMME,Middle East & North Africa,422,4,5
+Lesotho,Lesotho,TRUE,FALSE,LSO,LMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,426,4,12
+Liberia,Liberia,TRUE,FALSE,LBR,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,430,4,12
+Libya,Libya,FALSE,FALSE,LBY,UMIC,North Africa,Middle East and Africa,MEA,EMME,Middle East & North Africa,434,4,7
+Lithuania,Lithuania,FALSE,FALSE,LTU,HIC,Western Europe,Europe,EUR,EUR,Europe,440,3,13
+Luxembourg,Luxembourg,FALSE,FALSE,LUX,HIC,Western Europe,Europe,EUR,EUR,Europe,442,3,13
+Macedonia,North Macedonia,FALSE,FALSE,MKD,UMIC,Western Europe,Europe,EUR,EUR,Europe,807,3,13
+Madagascar,Madagascar,TRUE,FALSE,MDG,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,450,4,12
+Malawi,Malawi,TRUE,FALSE,MWI,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,454,4,12
+Malaysia,Malaysia,FALSE,FALSE,MYS,UMIC,South-East Asia,Asia-Pacific,APAC,WP,Western Pacific,458,2,11
+Maldives,Maldives,FALSE,FALSE,MDV,UMIC,South Asia,Asia-Pacific,APAC,SEA,South Asia,462,2,10
+Mali,Mali,TRUE,FALSE,MLI,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,466,4,12
+Malta,Malta,FALSE,FALSE,MLT,HIC,Western Europe,Europe,EUR,EUR,Europe,470,3,13
+Martinique,Martinique,FALSE,TRUE,MTQ,UMIC,Central America and The Caribbean,Americas,AMER,N/A,N/A,474,1,2
+Mauritania,Mauritania,TRUE,FALSE,MRT,LMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,478,4,12
+Mauritius,Mauritius,TRUE,FALSE,MUS,UMIC,Sub-Saharan Africa,Middle East and Africa,MEA,SEA,South Asia,480,4,12
+Mayotte,Mayotte,TRUE,TRUE,MYT,UMIC,Sub-Saharan Africa,Middle East and Africa,MEA,N/A,N/A,175,4,12
+Mexico,Mexico,FALSE,FALSE,MEX,UMIC,Central America and The Caribbean,Americas,AMER,NAC,North America & Carribbean,484,1,2
+Moldova,Republic of Moldova,FALSE,FALSE,MDA,LMIC,Eastern Europe,Europe,EUR,EUR,Europe,498,3,4
+Mongolia,Mongolia,FALSE,FALSE,MNG,LMIC,East Asia,Asia-Pacific,APAC,WP,Western Pacific,496,2,3
+Montenegro,Montenegro,FALSE,FALSE,MNE,UMIC,Western Europe,Europe,EUR,EUR,Europe,499,3,13
+Morocco,Morocco,FALSE,FALSE,MAR,LMIC,North Africa,Middle East and Africa,MEA,EMME,Middle East & North Africa,504,4,7
+Mozambique,Mozambique,TRUE,FALSE,MOZ,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,508,4,12
+Myanmar,Myanmar,FALSE,FALSE,MMR,LMIC,South-East Asia,Asia-Pacific,APAC,WP,Western Pacific,104,2,11
+Namibia,Namibia,TRUE,FALSE,NAM,UMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,516,4,12
+Nepal,Nepal,FALSE,FALSE,NPL,LIC,South Asia,Asia-Pacific,APAC,SEA,South Asia,524,2,10
+Netherlands,Netherlands,FALSE,FALSE,NLD,HIC,Western Europe,Europe,EUR,EUR,Europe,528,3,13
+New Caledonia,New Caledonia,FALSE,TRUE,NCL,HIC,Oceania,Asia-Pacific,APAC,N/A,N/A,540,2,11
+New Zealand,New Zealand,FALSE,FALSE,NZL,HIC,Australasia,Asia-Pacific,MEA,WP,Western Pacific,554,2,1
+Nicaragua,Nicaragua,FALSE,FALSE,NIC,LMIC,Central America and The Caribbean,Americas,AMER,SACA,South America & Central America,558,1,2
+Niger,Niger,TRUE,FALSE,NER,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,562,4,12
+Nigeria,Nigeria,TRUE,FALSE,NGA,LMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,566,4,12
+Norway,Norway,FALSE,FALSE,NOR,HIC,Nordic Countries,Europe,EUR,EUR,Europe,578,3,6
+Oman,Oman,FALSE,FALSE,OMN,HIC,Middle East,Middle East and Africa,MEA,EMME,Middle East & North Africa,512,4,5
+Pakistan,Pakistan,FALSE,FALSE,PAK,LMIC,South Asia,Asia-Pacific,APAC,EMME,Middle East & North Africa,586,2,10
+Panama,Panama,FALSE,FALSE,PAN,HIC,Central America and The Caribbean,Americas,AMER,SACA,South America & Central America,591,1,2
+Papua New Guinea,Papua New Guinea,FALSE,FALSE,PNG,LMIC,Oceania,Asia-Pacific,APAC,WP,Western Pacific,598,2,11
+Paraguay,Paraguay,FALSE,FALSE,PRY,UMIC,South America,Americas,AMER,SACA,South America & Central America,600,1,9
+Peru,Peru,FALSE,FALSE,PER,UMIC,South America,Americas,AMER,SACA,South America & Central America,604,1,9
+Philippines,Philippines,FALSE,FALSE,PHL,LMIC,South-East Asia,Asia-Pacific,APAC,WP,Western Pacific,608,2,11
+Poland,Poland,FALSE,FALSE,POL,HIC,Eastern Europe,Europe,EUR,EUR,Europe,616,3,4
+Portugal,Portugal,FALSE,FALSE,PRT,HIC,Western Europe,Europe,EUR,EUR,Europe,620,3,13
+Puerto Rico,Puerto Rico,FALSE,TRUE,PRI,HIC,Central America and The Caribbean,Americas,AMER,N/A,N/A,630,1,2
+Qatar,Qatar,FALSE,FALSE,QAT,HIC,Middle East,Middle East and Africa,MEA,EMME,Middle East & North Africa,634,4,5
+Republic of Congo,Congo,TRUE,FALSE,COG,LMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,178,4,12
+Republic of Korea,Republic of Korea,FALSE,FALSE,KOR,HIC,East Asia,Asia-Pacific,APAC,WP,Western Pacific,410,2,3
+Réunion,Réunion,TRUE,TRUE,REU,UMIC,Sub-Saharan Africa,Middle East and Africa,MEA,N/A,N/A,638,4,12
+Romania,Romania,FALSE,FALSE,ROU,UMIC,Eastern Europe,Europe,EUR,EUR,Europe,642,3,4
+Russian Federation,Russian Federation,FALSE,FALSE,RUS,UMIC,Eastern Europe,Europe,EUR,EUR,Europe,643,3,4
+Rwanda,Rwanda,TRUE,FALSE,RWA,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,646,4,12
+Samoa,Samoa,FALSE,FALSE,WSM,UMIC,Oceania,Asia-Pacific,APAC,WP,Western Pacific,882,2,11
+Sao Tome and Principe,Sao Tome and Principe,TRUE,FALSE,STP,LMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,678,4,12
+Saudi Arabia,Saudi Arabia,FALSE,FALSE,SAU,HIC,Middle East,Middle East and Africa,MEA,EMME,Middle East & North Africa,682,4,5
+Senegal,Senegal,TRUE,FALSE,SEN,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,686,4,12
+Serbia,Serbia,FALSE,FALSE,SRB,UMIC,Western Europe,Europe,EUR,EUR,Europe,688,3,13
+Seychelles,Seychelles,TRUE,FALSE,SYC,HIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,690,4,12
+Sierra Leone,Sierra Leone,TRUE,FALSE,SLE,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,694,4,12
+Singapore,Singapore,FALSE,FALSE,SGP,HIC,South-East Asia,Asia-Pacific,APAC,WP,Western Pacific,702,2,11
+Slovakia,Slovakia,FALSE,FALSE,SVK,HIC,Eastern Europe,Europe,EUR,EUR,Europe,703,3,4
+Slovenia,Slovenia,FALSE,FALSE,SVN,HIC,Western Europe,Europe,EUR,EUR,Europe,705,3,13
+Solomon Islands,Solomon Islands,FALSE,FALSE,SLB,LMIC,Oceania,Asia-Pacific,APAC,WP,Western Pacific,90,2,11
+Somalia,Somalia,TRUE,FALSE,SOM,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,706,4,12
+South Africa,South Africa,TRUE,FALSE,ZAF,UMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,710,4,12
+South Sudan,South Sudan,TRUE,FALSE,SSD,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,728,4,12
+Spain,Spain,FALSE,FALSE,ESP,HIC,Western Europe,Europe,EUR,EUR,Europe,724,3,13
+Sri Lanka,Sri Lanka,FALSE,FALSE,LKA,LMIC,South Asia,Asia-Pacific,APAC,SEA,South Asia,144,2,10
+St Lucia,Saint Lucia,FALSE,FALSE,LCA,UMIC,Central America and The Caribbean,Americas,AMER,NAC,North America & Carribbean,662,1,2
+St Vincent and the Grenadines,Saint Vincent and the Grenadines,FALSE,FALSE,VCT,UMIC,Central America and The Caribbean,Americas,AMER,NAC,North America & Carribbean,670,1,2
+State of Palestine,State of Palestine,FALSE,TRUE,PSE,LMIC,Middle East,Middle East and Africa,MEA,N/A,N/A,275,4,5
+Sudan,Sudan,FALSE,FALSE,SDN,LMIC,North Africa,Middle East and Africa,MEA,EMME,Middle East & North Africa,729,4,7
+Suriname,Suriname,FALSE,FALSE,SUR,UMIC,South America,Americas,AMER,NAC,North America & Carribbean,740,1,9
+Swaziland,Eswatini,TRUE,FALSE,SWZ,LMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,748,4,12
+Sweden,Sweden,FALSE,FALSE,SWE,HIC,Nordic Countries,Europe,EUR,EUR,Europe,752,3,6
+Switzerland,Switzerland,FALSE,FALSE,CHE,HIC,Western Europe,Europe,EUR,EUR,Europe,756,3,13
+Syrian Arab Republic,Syrian Arab Republic,FALSE,FALSE,SYR,LIC,Middle East,Middle East and Africa,MEA,EMME,Middle East & North Africa,760,4,5
+Tajikistan,Tajikistan,FALSE,FALSE,TJK,LIC,Central Asia,Asia-Pacific,APAC,EUR,Europe,762,2,4
+Thailand,Thailand,FALSE,FALSE,THA,UMIC,South-East Asia,Asia-Pacific,APAC,WP,Western Pacific,764,2,11
+Timor L'Este,Timor-Leste,FALSE,FALSE,TLS,LMIC,South-East Asia,Asia-Pacific,APAC,WP,Western Pacific,626,2,11
+Togo,Togo,TRUE,FALSE,TGO,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,768,4,12
+Tonga,Tonga,FALSE,FALSE,TON,UMIC,Oceania,Asia-Pacific,APAC,WP,Western Pacific,776,2,11
+Trinidad and Tobago,Trinidad and Tobago,FALSE,FALSE,TTO,HIC,Central America and The Caribbean,Americas,AMER,NAC,North America & Carribbean,780,1,2
+Tunisia,Tunisia,FALSE,FALSE,TUN,LMIC,North Africa,Middle East and Africa,MEA,EMME,Middle East & North Africa,788,4,7
+Turkey,Turkey,FALSE,FALSE,TUR,UMIC,Middle East,Middle East and Africa,MEA,EUR,Europe,792,4,5
+Turkmenistan,Turkmenistan,FALSE,FALSE,TKM,UMIC,Central Asia,Asia-Pacific,APAC,EUR,Europe,795,2,4
+Uganda,Uganda,TRUE,FALSE,UGA,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,800,4,12
+Ukraine,Ukraine,FALSE,FALSE,UKR,LMIC,Eastern Europe,Europe,EUR,EUR,Europe,804,3,4
+United Arab Emirates,United Arab Emirates,FALSE,FALSE,ARE,HIC,Middle East,Middle East and Africa,MEA,EMME,Middle East & North Africa,784,4,5
+United Kingdom,United Kingdom,FALSE,FALSE,GBR,HIC,Western Europe,Europe,EUR,EUR,Europe,826,3,13
+United Republic of Tanzania,United Republic of Tanzania,TRUE,FALSE,TZA,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,834,4,12
+United States,United States of America,FALSE,FALSE,USA,HIC,North America,Americas,AMER,NAC,North America & Carribbean,840,1,8
+United States Virgin Islands,United States Virgin Islands,FALSE,TRUE,VIR,HIC,Central America and The Caribbean,Americas,AMER,N/A,N/A,850,1,2
+Uruguay,Uruguay,FALSE,FALSE,URY,HIC,South America,Americas,AMER,SACA,South America & Central America,858,1,9
+Uzbekistan,Uzbekistan,FALSE,FALSE,UZB,LMIC,Central Asia,Asia-Pacific,APAC,EUR,Europe,860,2,4
+Vanuatu,Vanuatu,FALSE,FALSE,VUT,LMIC,Oceania,Asia-Pacific,APAC,WP,Western Pacific,548,2,11
+Venezuela,Venezuela (Bolivarian Republic of),FALSE,FALSE,VEN,UMIC,South America,Americas,AMER,SACA,South America & Central America,862,1,9
+Viet Nam,Viet Nam,FALSE,FALSE,VNM,LMIC,South-East Asia,Asia-Pacific,APAC,WP,Western Pacific,704,2,11
+Western Sahara,Western Sahara,FALSE,TRUE,ESH,UMIC,North Africa,Middle East and Africa,MEA,N/A,N/A,732,4,7
+Yemen,Yemen,FALSE,FALSE,YEM,LIC,Middle East,Middle East and Africa,MEA,EMME,Middle East & North Africa,887,4,5
+Zambia,Zambia,TRUE,FALSE,ZMB,LMIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,894,4,12
+Zimbabwe,Zimbabwe,TRUE,FALSE,ZWE,LIC,Sub-Saharan Africa,Middle East and Africa,MEA,AFR,Sub-Saharan Africa,716,4,12

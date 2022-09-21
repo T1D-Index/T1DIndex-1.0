@@ -1,0 +1,337 @@
+,,Date,,,Age group,,,Mortality,,,,,,,
+Assigned to,Country,Start,End,Gender,Min,Max,Deaths,SMR,Min,Max,Standard Deviation,Standard Error,Source,Image,Comments
+,Australia,1997,2003,M,0,9,2,0.75,0.19,2.99,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,M,10,19,37,3.26,2.36,4.49,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,M,20,29,101,2.56,2.11,3.11,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,M,30,39,258,4.09,3.62,4.62,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,M,40,49,582,4.69,4.33,5.09,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,M,50,59,533,3.75,3.45,4.08,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,M,60,69,55,2.01,1.54,2.62,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,M,70,79,47,2.1,1.58,2.41,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,M,80,89,23,2.42,1.61,3.64,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,F,0,9,1,0.56,0.08,4,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,F,10,19,41,7.77,5.72,10.56,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,F,20,29,80,5.91,4.75,7.36,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,F,30,39,159,4.57,3.92,5.34,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,F,40,49,315,4.72,4.23,5.27,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,F,50,59,284,4.36,3.88,4.89,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,F,60,69,30,2.52,1.76,3.6,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,F,70,79,28,2.81,1.99,3.95,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,1997,2003,F,80,89,18,2.25,1.42,3.57,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,M,0,9,3,1.21,0.39,3.74,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,M,10,19,32,3.06,2.16,4.32,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,M,20,29,95,2.95,2.41,3.61,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,M,30,39,236,4.08,3.59,4.653,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,M,40,49,505,4.39,4.02,4.79,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,M,50,59,780,3.37,3.14,3.61,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,M,60,69,402,2.6,2.36,2.87,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,M,70,79,80,2.25,1.81,2.8,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,M,80,89,46,2.13,1.59,2.84,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,F,0,9,3,1.73,0.56,5.36,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,F,10,19,20,3.98,2.57,6.17,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,F,20,29,81,6.91,5.56,8.59,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,F,30,39,137,4.95,4.19,5.85,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,F,40,49,313,4.22,3.77,4.71,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,F,50,59,467,4.02,3.67,4.4,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,F,60,69,237,3.4,3,3.87,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,F,70,79,64,3.12,2.44,3.98,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Australia,2004,2010,F,80,89,34,2.53,1.81,3.54,,,Harding (2014),,Average of M+F SMR currently used in T1D Index
+,Saudi Arabia,2004,2009,M,0,4,13.9,,,,,,,,
+,Saudi Arabia,2004,2009,M,5,9,26.5,,,,,,,,
+,Saudi Arabia,2004,2009,M,10,12,,,,,,,,,
+,Saudi Arabia,2004,2009,F,0,4,,,,,,,,,
+,Saudi Arabia,2004,2009,F,5,9,,,,,,,,,
+,Saudi Arabia,2004,2009,F,10,12,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+YW,Australia,1987,2011,M,1,4,0,,,,,,O'Grady (2013),,
+YW,Australia,1987,2011,M,5,9,0,,,,,,O'Grady (2013),,
+YW,Australia,1987,2011,M,10,14,2,3.2,0.4,11.5,,,O'Grady (2013),,
+YW,Australia,1987,2011,M,15,17,4,2.4,0.6,6.1,,,O'Grady (2013),,
+YW,Australia,1987,2011,M,1,17,6,2.2,0.8,4.7,,,O'Grady (2013),,
+YW,Australia,1987,2011,F,1,4,0,,,,,,O'Grady (2013),,
+YW,Australia,1987,2011,F,5,9,1,4.9,0.1,27,,,O'Grady (2013),,
+YW,Australia,1987,2011,F,10,14,3,6.9,1.4,20.4,,,O'Grady (2013),,
+YW,Australia,1987,2011,F,15,17,3,4.6,0.9,13.2,,,O'Grady (2013),,
+YW,Australia,1987,2011,F,1,17,7,4.6,1.9,9.6,,,O'Grady (2013),,
+YW,Australia,1987,2011,M+F,1,4,0,,,,,,O'Grady (2013),,
+YW,Australia,1987,2011,M+F,5,9,1,1.9,0,10.8,,,O'Grady (2013),,
+YW,Australia,1987,2011,M+F,10,14,5,4.6,1.5,10.8,,,O'Grady (2013),,
+YW,Australia,1987,2011,M+F,15,17,7,3,1.2,6.1,,,O'Grady (2013),,
+YW,Australia,1987,2011,M+F,1,17,13,3.1,1.7,5.3,,,O'Grady (2013),,
+YW,Democratic Republic of the Congo,1994,2004,M+F,0,30,159,3.62,3.1,4.2,,,Muyer (2010),,
+YW,Estonia,1980,1995,M,0,30,8,4.14,1.79,8.15,,,Podar (2000),,
+YW,Estonia,1980,1995,F,0,30,4,4.86,1.32,12.44,,,Podar (2000),,
+YW,Estonia,1980,1995,M+F,0,30,12,4.35,2.25,7.61,,,Podar (2000),,
+YW,Finland,1970,1994,M+F,0,34,68,3.5,2.7,4.4,,,Harjutsalo (2011),,
+YW,Finland,1975,1999,M+F,0,34,64,3.4,2.6,4.3,,,Harjutsalo (2011),,
+YW,Finland,1979,2004,M+F,0,34,57,3,2.3,3.9,,,Harjutsalo (2011),,
+YW,Finland,1985,2007,M+F,0,34,19,1.9,1.2,2.9,,,Harjutsalo (2011),,
+YW,Finland,1970,1994,M+F,15,49,49,1.4,1,1.8,,,Harjutsalo (2011),,
+YW,Finland,1975,1999,M+F,15,49,58,1.8,1.4,2.3,,,Harjutsalo (2011),,
+YW,Finland,1979,2004,M+F,15,49,71,2.2,1.8,2.8,,,Harjutsalo (2011),,
+YW,Finland,1985,2007,M+F,15,49,57,2.9,2.2,3.7,,,Harjutsalo (2011),,
+YW,Finland,1980,2005,M+F,0,14,84,2.58,2.07,3.18,,,Groop (2018),,"Results (Overall SMR during first 10 years after diagnosis) in the text 
+"
+YW,Finland,1980,2005,M,0,14,53,2.25,1.71,2.93,,,Groop (2018),,
+YW,Finland,1980,2005,F,0,14,31,3.32,2.28,4.68,,,Groop (2018),,
+YW,Finland,1980,2005,M+F,0,4,7,1.63,0.71,3.23,,,Groop (2018),,
+YW,Finland,1980,2005,M+F,5,9,22,2.63,1.69,3.92,,,Groop (2018),,
+YW,Finland,1980,2005,M+F,10,14,55,2.72,2.06,3.52,,,Groop (2018),,
+YW,Finland,1980,1989,M+F,0,14,27,2.03,1.35,2.93,,,Groop (2018),,
+YW,Finland,1990,1999,M+F,0,14,33,2.68,1.88,3.72,,,Groop (2018),,
+YW,Finland,2000,2005,M+F,0,14,24,3.25,2.13,4.76,,,Groop (2018),,
+YW,Lithuania,1989,2003,M+F,0,15,15,2.9,1.6,4.7,,,Patterson (2007),,
+YW,Bulgaria (Eastern),1989,1999,M+F,0,15,10,4.7,2.3,8.7,,,Patterson (2007),,
+YW,Hungary (ex. Budapest),1989,2002,M+F,0,15,5,1.1,0.4,2.6,,,Patterson (2007),,
+YW,Austria,1989,2002,M+F,0,15,6,1.2,0.5,2.6,,,Patterson (2007),,
+YW,Spain (Catalonia),1989,2002,M+F,0,15,3,0.4,0.1,1.2,,,Patterson (2007),,
+YW,Germany (Dusseldorf),1989,2001,M+F,0,15,4,2.8,0.8,7.2,,,Patterson (2007),,
+YW,Iceland,1989,2004,M+F,0,15,0,0,0,6.9,,,Patterson (2007),,
+YW,Denmark,1989,2002,M+F,0,15,10,3,1.5,5.6,,,Patterson (2007),,
+YW,UK (Leeds),1989,2004,M+F,0,15,19,4.2,2.2,5.6,,,Patterson (2007),,
+YW,Norway,1989,2003,M+F,0,15,19,2,1.2,3.1,,,Patterson (2007),,
+YW,UK (Northern Ireland),1989,2002,M+F,0,15,9,2.9,1.3,5.4,,,Patterson (2007),,
+YW,Sweden,1989,2002,M+F,0,15,14,1.4,0.8,2.4,,,Patterson (2007),,
+YW,FInland,1989,2000,M+F,0,15,27,2.3,1.4,3.2,,,Patterson (2007),,
+YW,Countries Total,1989,2004,M+F,0,15,141,2,1.7,2.4,,,Patterson (2007),,
+YW,Israel,1965,1996,M+F,0,4,0,0,0,0,,,Laron-Kenet (2001),,
+YW,Israel,1965,1996,M+F,5,9,2,69.54,8.41,251,,,Laron-Kenet (2001),,
+YW,Israel,1965,1996,M+F,10,14,2,12.71,1.54,45.89,,,Laron-Kenet (2001),,
+YW,Israel,1965,1996,M+F,15,19,6,8.94,3.28,19.48,,,Laron-Kenet (2001),,
+YW,Israel,1965,1996,M+F,20,24,5,2.39,0.77,5.57,,,Laron-Kenet (2001),,
+YW,Israel,1965,1996,M+F,25,29,8,4.04,1.74,7.95,,,Laron-Kenet (2001),,
+YW,Israel,1965,1996,M+F,30,34,8,3.6,1.55,7.09,,,Laron-Kenet (2001),,
+YW,Israel,1965,1996,M+F,35,39,3,1.28,0.26,3.74,,,Laron-Kenet (2001),,
+YW,Israel,1965,1996,M+F,40,44,3,2.03,0.42,5.93,,,Laron-Kenet (2001),,
+YW,Israel,1965,1996,M+F,45,49,0,0,0,0,,,Laron-Kenet (2001),,
+YW,Israel,1965,1996,M+F,0,49,37,2.98,2.1,4.09,,,Laron-Kenet (2001),,
+YW,Italy,1974,2000,M+F,0,29,19,1.96,1.25,3.08,,,Bruno (2008),,Overall SMR 0-29 y/o.
+YW,Italy,1974,2000,M,0,29,13,1.71,0.99,2.95,,,Bruno (2008),,
+YW,Italy,1974,2000,F,0,29,6,2.86,1.29,6.37,,,Bruno (2008),,
+YW,Italy,1974,2000,M+F,0,4,1,1.21,0.17,8.61,,,Bruno (2008),,
+YW,Italy,1974,2000,M+F,5,9,5,3.71,1.54,8.91,,,Bruno (2008),,
+YW,Italy,1974,2000,M+F,10,14,2,0.91,0.23,3.66,,,Bruno (2008),,
+YW,Italy,1974,2000,M+F,15,19,4,2.35,0.88,6.27,,,Bruno (2008),,
+YW,Italy,1974,2000,M+F,20,24,3,1.7,0.55,5.28,,,Bruno (2008),,
+YW,Italy,1974,2000,M+F,25,29,4,2.14,0.8,5.71,,,Bruno (2008),,
+YW,Italy,1974,2000,M+F,0,14,8,1.84,0.92,3.67,,,Bruno (2008),,
+YW,Italy,1974,2000,M+F,15,29,11,2.06,1.14,3.73,,,Bruno (2008),,
+YW,Italy,1974,1983,M+F,0,29,6,2.77,1.25,6.17,,,Bruno (2008),,
+YW,Italy,1984,1991,M+F,0,29,12,2.22,1.26,3.9,,,Bruno (2008),,
+YW,Italy,1992,2000,M+F,0,29,1,0.48,0.07,3.38,,,Bruno (2008),,
+YW,Japan,1965,1969,M+F,0,14,,16.65,10.07,2.485,,,Nishimura (1998),,"All data in Table 2, SMRs at the bottom though values seem relatively higher compared to other studies"
+YW,Japan,1970,1979,M+F,0,14,,5.75,3.38,9.1,,,Nishimura (1998),,"All data in Table 2, SMRs at the bottom though values seem relatively higher compared to other studies"
+YW,Japan,1965,1979,M+F,0,14,,9.04,6.55,11.96,,,Nishimura (1998),,"All data in Table 2, SMRs at the bottom though values seem relatively higher compared to other studies"
+YW,Japan,1965,1969,M+F,0,,76,19.3,,,,,Morimoto (2013),,SMR values extracted from Results text.
+YW,Japan,1975,1979,M+F,0,,61,6.6,,,,,Morimoto (2013),,
+YW,Estonia,1980,1995,M,0,30,8,4.14,1.79,8.15,,,Podar (2000),,
+YW,Estonia,1980,1995,F,0,30,4,4.86,1.32,12.44,,,Podar (2000),,
+YW,Estonia,1980,1995,M+F,0,30,12,4.35,2.25,7.61,,,Podar (2000),,
+YW,Lithuania,1980,1995,M,0,30,12,5.28,2.73,9.22,,,Podar (2000),,
+YW,Lithuania,1980,1995,F,0,30,13,12.56,6.69,21.47,,,Podar (2000),,
+YW,Lithuania,1980,1995,M+F,0,30,25,7.55,4.89,11.15,,,Podar (2000),,
+YW,Finland,1980,1995,M,0,30,20,1.38,0.84,2.13,,,Podar (2000),,
+YW,Finland,1980,1995,F,0,30,12,2.26,1.17,3.95,,,Podar (2000),,
+YW,Finland,1980,1995,M+F,0,30,32,1.62,1.1,2.28,,,Podar (2000),,
+IC,Mali,2007,2016,M+F,0,24,45,9,6.6,12,,,Sandy (2021),,
+IC,Norway,1973,2012,M+F,0,99,249,3.6,3.1,4,,,Gagnum (2015),,
+IC,Norway,1973,2012,M+F,0,9,6,2.1,1,4.7,,,Gagnum (2015),,Attained age
+IC,Norway,1973,2012,M+F,10,19,45,2.6,2,3.5,,,Gagnum (2015),,
+IC,Norway,1973,2012,M+F,20,29,73,3.2,2.5,4,,,Gagnum (2015),,
+IC,Norway,1973,2012,M+F,30,39,74,4.7,3.8,6,,,Gagnum (2015),,
+IC,Norway,1973,2012,M+F,40,99,51,4.4,3.4,5.8,,,Gagnum (2015),,
+IC,Norway,1973,2012,M,0,99,174,3.5,3,4,,,Gagnum (2015),,
+IC,Norway,1973,2012,F,0,99,75,3.8,3,4.7,,,Gagnum (2015),,
+IC,Norway,1973,2012,M+F,0,9,102,3.2,2.6,3.9,,,Gagnum (2015),,Age at diagnosis
+IC,Norway,1973,2012,M+F,10,14,147,3.9,3.3,4.6,,,Gagnum (2015),,Age at diagnosis
+IC,Norway,1973,1982,M+F,0,99,185,3.9,3.2,4.4,,,Gagnum (2015),,
+IC,Norway,1989,1998,M+F,0,99,48,2.7,1.9,3.6,,,Gagnum (2015),,
+IC,Norway,1999,2012,M+F,0,99,16,2.2,1,3.5,,,Gagnum (2015),,
+IC,Norway,1989,2005,M+F,0,>20,19,2,1.2,3.1,,,Patterson (2007),,
+IC,"Poland, Warsaw",1975,1987,M,0,54,51,4.27,3.17,5.62,,,Morrish (2001),,No age group specified in paper. Mean age of death in Warsaw for men is 52.4 and women 53.7
+IC,"Poland, Warsaw",1975,1987,F,0,54,37,7,4.93,9.64,,,Morrish (2001),,
+IC,United Kingdom,1972,1997,M,1,9,13,2.5,1.5,4.3,,,Laing (1999),,
+IC,United Kingdom,1972,1997,M,10,9,78,2.3,1.5,2.9,,,Laing (1999),,
+IC,United Kingdom,1972,1997,M,20,29,139,2.9,2.4,3.4,,,Laing (1999),,
+IC,United Kingdom,1972,1997,M,30,39,79,3.7,3,4.6,,,Laing (1999),,
+IC,United Kingdom,1972,1997,M,40,49,73,4,3.1,5,,,Laing (1999),,
+IC,United Kingdom,1972,1997,M,50,59,79,2.9,2.3,3.6,,,Laing (1999),,
+IC,United Kingdom,1972,1997,M,60,69,85,2.6,2.1,3.2,,,Laing (1999),,
+IC,United Kingdom,1972,1997,M,70,84,20,0.8,0.5,1.3,,,Laing (1999),,
+IC,United Kingdom,1972,1997,M,1,84,566,2.7,2.5,2.9,,,Laing (1999),,
+IC,United Kingdom,1972,1997,F,1,9,12,3.8,2.2,6.7,,,Laing (1999),,
+IC,United Kingdom,1972,1997,F,10,9,53,3.6,2.8,4.7,,,Laing (1999),,
+IC,United Kingdom,1972,1997,F,20,29,97,5.7,4.7,7,,,Laing (1999),,
+IC,United Kingdom,1972,1997,F,30,39,46,4.9,3.6,6.5,,,Laing (1999),,
+IC,United Kingdom,1972,1997,F,40,49,41,4.5,3.3,6.4,,,Laing (1999),,
+IC,United Kingdom,1972,1997,F,50,59,49,3.5,2.7,4.7,,,Laing (1999),,
+IC,United Kingdom,1972,1997,F,60,69,53,3,2.3,4,,,Laing (1999),,
+IC,United Kingdom,1972,1997,F,70,84,32,2.6,1.9,3.7,,,Laing (1999),,
+IC,United Kingdom,1972,1997,F,1,84,383,4,3.6,4.4,,,Laing (1999),,
+IC,Sweden,1983,1999,F,15,34,16,1.6,1,2.6,,,Waernbaum (2006),,
+IC,Sweden,1983,1999,M,15,34,67,1.9,1.5,2.4,,,Waernbaum (2006),,
+IC,Sweden,1983,1999,M+F,15,34,83,1.8,1.4,2.2,,,Waernbaum (2006),,
+IC,Sweden,1983,1988,M+F,15,34,18,3.3,2.1,5.2,,,Waernbaum (2006),,
+IC,Sweden,1989,1994,M+F,15,34,9,2.1,1.1,4,,,Waernbaum (2006),,
+IC,Sweden,1995,1999,M+F,15,34,6,3,1.4,6.7,,,Waernbaum (2006),,
+IC,Sweden,1983,1987,M,15,34,5,2,0.6,4.7,,,Nyström (1992),,
+IC,Sweden,1983,1987,F,15,34,1,1.7,0,9.5,,,Nyström (1992),,
+IC,Sweden,1983,1987,M+F,15,34,6,2.1,0.8,4.6,,,Nyström (1992),,
+IC,Sudan,1977,1986,M+F,0,15,17,8.61,,,,,Elamin (1992),,"From paper, 17 deaths in 399 person-uears = mortality rate is 42.6. SMR not included in paper (nor expected death rates). SMR is listed as 8.61 in assigned excel sheet so this was entered instead. No CI available. "
+IC,Scotland ,2008,2010,M,20,49,181,2.1,,,,,Livingstone (2015),,SMR taken from excel sheet Livingstone 2015 v3
+IC,Scotland ,2008,2010,F,20,49,114,9.08,,,,,Livingstone (2015),,
+IC,Scotland ,2008,2010,M+F,20,49,295,5.6,,,,,Livingstone (2015),,
+IC,Scotland ,2008,2010,M,50,74,374,1.41,,,,,Livingstone (2015),,
+IC,Scotland ,2008,2010,F,50,74,242,3.36,,,,,Livingstone (2015),,
+IC,Scotland ,2008,2010,M+F,50,74,616,2.38,,,,,Livingstone (2015),,
+IC,Scotland ,2008,2010,M,75,>75,104,8.24,,,,,Livingstone (2015),,
+IC,Scotland ,2008,2010,F,75,>75,143,10.37,,,,,Livingstone (2015),,
+IC,Scotland ,2008,2010,M+F,75,>75,247,9.3,,,,,Livingstone (2015),,
+IC,Rwanda,2004,2012,M+F,0,25,33,9.41,,,,,Marshall (2017),,"SMR not provided in paper, only mortality of 9.1% (CI 6.3-12.8) or 18.1/1000 person years. SMR is listed as 9.41 in assigned excel sheet so this was entered instead."
+WW,United Kingdom-Teesside,1994,1999,M,0,39,4,2.59,0.18,5.01,,,Roper (2002),,The death rate per 1000/year are presented in the mortality SMR column.
+WW,United Kingdom-Teesside,1994,1999,M,40,59,16,20.65,12.44,28.85,,,Roper (2002),,The death rate per 1000/year are presented in the mortality SMR column.
+WW,United Kingdom-Teesside,1994,1999,M,60,79,9,57.73,38.2,77.25,,,Roper (2002),,The death rate per 1000/year are presented in the mortality SMR column.
+WW,United Kingdom-Teesside,1994,1999,F,0,39,3,2.43,0,5.04,,,Roper (2002),,The death rate per 1000/year are presented in the mortality SMR column.
+WW,United Kingdom-Teesside,1994,1999,F,40,59,11,18.27,9.29,27.25,,,Roper (2002),,The death rate per 1000/year are presented in the mortality SMR column.
+WW,United Kingdom-Teesside,1994,1999,F,60,79,9,109.48,94.26,124.7,,,Roper (2002),,The death rate per 1000/year are presented in the mortality SMR column.
+WW,United Kingdom,1992,1999,M,0,35,,2.4,1.6,3.5,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,M,36,45,,5,3.5,7.2,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,M,46,55,,12,8.8,16.4,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,M,56,65,,28.3,21.1,37.9,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,M,66,75,,42.4,29.5,61,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,M,76,and greater,,113.2,73,175.5,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,F,0,35,,1.7,1,2.7,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,F,36,45,,4.3,2.7,6.8,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,F,46,55,,10,6.8,14.6,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,F,56,65,,28.6,20.6,39.6,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,F,66,75,,44.1,29.8,65.3,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,F,76,and greater,,136.6,83.7,223,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,M+F,0,35,75,,,,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,M+F,36,45,84,,,,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,M+F,46,55,133,,,,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,M+F,56,65,186,,,,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,M+F,66,75,176,,,,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United Kingdom,1992,1999,M+F,76,and greater,153,,,,,,Soedamah-Muthu (2006),,Mortality Rate per 1000/year provided in the mortality SMR column
+WW,United States-Allegheny County type 1 diabetes incidence registry,1965,1999,M,0,17,81,3.25,2.55,3.98,,,Nishimura (2001),,Start date obtained from earliest year of onset mentioned in paper.
+WW,United States-Allegheny County type 1 diabetes incidence registry,1965,1999,F,0,17,89,10.41,8.32,12.77,,,Nishimura (2001),,Start date obtained from earliest year of onset mentioned in paper.
+WW,United States-Allegheny County type 1 diabetes incidence registry,1965,1969,M+F,0,17,92,6.77,5.46,8.21,,,,,
+WW,United States-Allegheny County type 1 diabetes incidence registry,1970,1974,M+F,0,17,57,4.88,3.72,6.22,,,,,
+WW,United States-Allegheny County type 1 diabetes incidence registry,1975,1979,M+F,0,17,21,2.81,1.71,4.24,,,,,
+WW,United States-Allegheny County type 1 diabetes incidence registry,1965,1979,M+F,0,17,170,5.19,4.4,6.02,,,,,
+WW,United States,Do not have paper.,,,,,,,,,,,Burnet (2017),,
+WW,United States-Allegheny County childhood-onset type 1 diabetes registry,1965,2009,M,0,17,138,763.2,,,,,Secrest (2010),,"Mortality rate per 100,000 person-years presented in mortality SMR column."
+WW,United States-Allegheny County childhood-onset type 1 diabetes registry,1965,2009,F,0,17,141,866.1,,,,,Secrest (2010),,"Mortality rate per 100,000 person-years presented in mortality SMR column."
+WW,United States of America- Pittsburgh EDC Study and background Allegheny County population,1996,2012,M,30,39,2543,2.4,2.8,7.2,,,Miller (2016),,The total number events (mortality) calculated from EDC study and Allegheny Couity (1996-2012; reference Table 2) are presented in Deaths column.
+WW,United States of America- Pittsburgh EDC Study and background Allegheny County population,1996,2012,M,40,44,2279,3.3,1.8,5.4,,,Miller (2016),,The total number events (mortality) calculated from EDC study and Allegheny Couity (1996-2012; reference Table 2) are presented in Deaths column.
+WW,United States of America- Pittsburgh EDC Study and background Allegheny County population,1996,2012,F,30,39,1291,9.2,4.8,15.9,,,Miller (2016),,The total number events (mortality) calculated from EDC study and Allegheny Couity (1996-2012; reference Table 2) are presented in Deaths column.
+WW,United States of America- Pittsburgh EDC Study and background Allegheny County population,1996,2012,F,40,44,1334,6.7,3.4,11.9,,,Miller (2016),,The total number events (mortality) calculated from EDC study and Allegheny Couity (1996-2012; reference Table 2) are presented in Deaths column.
+WW,United States of America- Pittsburgh EDC Study and background Allegheny County population,1996,2012,M+F,30,39,3834,4.6,2.8,7.2,,,Miller (2016),,The total number events (mortality) calculated from EDC study and Allegheny Couity (1996-2012; reference Table 2) are presented in Deaths column.
+WW,United States of America- Pittsburgh EDC Study and background Allegheny County population,1996,2012,M+F,40,44,3613,5.3,3.4,7.8,,,Miller (2016),,The total number events (mortality) calculated from EDC study and Allegheny Couity (1996-2012; reference Table 2) are presented in Deaths column.
+DJ,Australia,1997,2003,M,0,9,2,0.75,0.19,2.99,,,Harding (2014),,
+DJ,Australia,1997,2003,M,10,19,37,3.26,2.36,4.49,,,Harding (2014),,
+DJ,Australia,1997,2003,M,20,29,101,2.56,2.11,3.11,,,Harding (2014),,
+DJ,Australia,1997,2003,M,30,39,258,4.09,3.62,4.62,,,Harding (2014),,
+DJ,Australia,1997,2003,M,40,49,582,4.69,4.33,5.09,,,Harding (2014),,
+DJ,Australia,1997,2003,M,50,59,533,3.75,3.45,4.08,,,Harding (2014),,
+DJ,Australia,1997,2003,M,60,69,55,2.01,1.54,2.62,,,Harding (2014),,
+DJ,Australia,1997,2003,M,70,79,47,2.1,1.58,2.41,,,Harding (2014),,
+DJ,Australia,1997,2003,M,80,89,23,2.42,1.61,3.64,,,Harding (2014),,
+DJ,Australia,1997,2003,F,0,9,1,0.56,0.08,4,,,Harding (2014),,
+DJ,Australia,1997,2003,F,10,19,41,7.77,5.72,10.56,,,Harding (2014),,
+DJ,Australia,1997,2003,F,20,29,80,5.91,4.75,7.36,,,Harding (2014),,
+DJ,Australia,1997,2003,F,30,39,59,4.57,3.92,5.34,,,Harding (2014),,
+DJ,Australia,1997,2003,F,40,49,315,4.72,4.23,5.27,,,Harding (2014),,
+DJ,Australia,1997,2003,F,50,59,284,4.36,3.88,4.89,,,Harding (2014),,
+DJ,Australia,1997,2003,F,60,69,30,2.52,1.76,3.6,,,Harding (2014),,
+DJ,Australia,1997,2003,F,70,79,28,2.81,1.99,3.95,,,Harding (2014),,
+DJ,Australia,1997,2003,F,80,89,18,2.25,1.42,3.57,,,Harding (2014),,
+DJ,Australia,2004,2010,M,0,9,3,1.21,0.39,3.74,,,Harding (2014),,
+DJ,Australia,2004,2010,M,10,19,32,3.06,2.16,4.32,,,Harding (2014),,
+DJ,Australia,2004,2010,M,20,29,95,2.95,2.41,3.61,,,Harding (2014),,
+DJ,Australia,2004,2010,M,30,39,236,4.08,3.59,4.653,,,Harding (2014),,
+DJ,Australia,2004,2010,M,40,49,505,4.39,4.02,4.79,,,Harding (2014),,
+DJ,Australia,2004,2010,M,50,59,780,3.37,3.14,3.61,,,Harding (2014),,
+DJ,Australia,2004,2010,M,60,69,402,2.6,2.36,2.87,,,Harding (2014),,
+DJ,Australia,2004,2010,M,70,79,80,2.25,1.81,2.8,,,Harding (2014),,
+DJ,Australia,2004,2010,M,80,89,46,2.13,1.59,2.84,,,Harding (2014),,
+DJ,Australia,2004,2010,F,0,9,3,1.73,0.56,5.36,,,Harding (2014),,
+DJ,Australia,2004,2010,F,10,19,20,3.98,2.57,6.17,,,Harding (2014),,
+DJ,Australia,2004,2010,F,20,29,81,6.91,5.56,8.59,,,Harding (2014),,
+DJ,Australia,2004,2010,F,30,39,137,4.95,4.19,5.85,,,Harding (2014),,
+DJ,Australia,2004,2010,F,40,49,313,4.22,3.77,4.71,,,Harding (2014),,
+DJ,Australia,2004,2010,F,50,59,467,4.02,3.67,4.4,,,Harding (2014),,
+DJ,Australia,2004,2010,F,60,69,237,3.4,3,3.87,,,Harding (2014),,
+DJ,Australia,2004,2010,F,70,79,64,3.12,2.44,3.98,,,Harding (2014),,
+DJ,Australia,2004,2010,F,80,89,34,2.53,1.81,3.54,,,Harding (2014),,
+DJ,Austria,1989,2002,M+F,0,14,6,1.2,0.5,2.6,,,Patterson (2007),,
+DJ,Croatia - Zagreb,not stated,1987,M,not stated,not stated,,346,214,528,,,Morrish (2001),,
+DJ,Croatia - Zagreb,not stated,1987,F,not stated,not stated,,336,109,784,,,Morrish (2001),,
+DJ,Cuba,,,M,0,15,37,7.5,5.3,10.3,,,Collado-Mesa (1997),,
+,,,,F,0,15,33,10,6.9,14.6,,,Collado-Mesa (1997),,
+PR,USA,1985,2000,F,0,17,14,2.69,1.59,4.55,,,Burnet (2007),,
+PR,USA,1985,2000,M,0,17,16,3.64,2.23,5.94,,,Burnet (2007),,
+PR,USA,1985,2000,M+F,0,17,30,3.13,2.19,4.47,,,Burnet (2007),,
+PR,USA,1985,2000,M+F,0,9,5,1.48,0.62,3.56,,,Burnet (2007),,
+PR,USA,1985,2000,M+F,10,13,12,3.81,2.16,6.7,,,Burnet (2007),,
+PR,USA,1985,2000,M+F,14,16,4,1.61,0.6,4.29,,,Burnet (2007),,
+PR,USA,1985,2000,M+F,17,17,9,15.26,7.94,29.32,,,Burnet (2007),,
+PR,USA,1983,1993,F,13,39,47,1.19,0.9,1.59,,,DCCT (2016),,
+PR,USA,1983,1993,M,13,39,78,1.04,0.83,1.3,,,DCCT (2016),,
+PR ,Bolivia,2005,2017,M+F,0,24,2,2.3,,,,,Duarte Gomez at al (2017),,
+PR,Brazil,1974,2015,M+F,,,62,3.13,2.35,4.08,,,Gomes (2017),,
+PR,"China, Hong Kong",1975,1987,M,0,54,10,3.44,1.65,6.32,,,Morrish (2001),,No age group specified in paper. Mean age of death in Warsaw for men is 52.4 and women 53.7
+PR,"China, Hong Kong",1975,1987,F,0,54,8,6.37,2.75,12.55,,,Morrish (2001),,
+PR,"Croatia, Zagreb",1975,1987,M,0,54,22,3.46,2.14,5.28,,,Morrish (2001),,No age group specified in paper. Mean age of death in Warsaw for men is 52.4 and women 53.7
+PR,"Croatia, Zagreb",1975,1987,F,0,54,5,3.36,1.09,7.84,,,Morrish (2001),,
+PR,"Cuba, Havana",1975,1987,M,0,54,18,6.85,4.06,10.82,,,Morrish (2001),,No age group specified in paper. Mean age of death in Warsaw for men is 52.4 and women 53.7
+PR,"Cuba, Havana",1975,1987,F,0,54,10,7.9,3.79,14.53,,,Morrish (2001),,
+PR,"Germany, Berlin",1975,1987,M,0,54,44,6.82,4.95,9.15,,,Morrish (2001),,No age group specified in paper. Mean age of death in Warsaw for men is 52.4 and women 53.7
+PR,"Germany, Berlin",1975,1987,F,0,54,30,6.55,4.35,9.46,,,Morrish (2001),,
+PR,Switzerland,1975,1987,M,0,54,25,3.92,2.53,5.78,,,Morrish (2001),,No age group specified in paper. Mean age of death in Warsaw for men is 52.4 and women 53.7
+PR,Switzerland,1975,1987,F,0,54,26,7.42,4.89,10.8,,,Morrish (2001),,
+PR,"United Kingdom, London",1975,1987,M,0,54,19,1.88,1.13,2.94,,,Morrish (2001),,No age group specified in paper. Mean age of death in Warsaw for men is 52.4 and women 53.7
+PR,"United Kingdom, London",1975,1987,F,0,54,23,3.38,2.14,5.07,,,Morrish (2001),,
+PR,Denmark,1987,1989,M+F,0,20,49,4.8,3.5,6.2,,,Sandahl (2017),,
+PR,Finland,1970,1974,M+F,0,34,64,3.5,2.7,4.4,,,Harjutsalo (2011),,
+PR,Finland,1975,1979,M+F,0,34,68,3.4,2.6,4.3,,,Harjutsalo (2011),,
+PR,Finland,1980,1984,M+F,0,34,57,3,2.3,3.9,,,Harjutsalo (2011),,
+PR,Finland,1985,1990,M+F,0,34,19,1.9,1.2,2.9,,,Harjutsalo (2011),,
+PR,Finland,1970,1974,M+F,15,49,49,1.4,1,1.8,,,Harjutsalo (2011),,
+PR,Finland,1975,1979,M+F,15,49,68,1.8,1.4,2.3,,,Harjutsalo (2011),,
+PR,Finland,1980,1984,M+F,15,49,71,2.2,1.8,2.8,,,Harjutsalo (2011),,
+PR,Finland,1985,1990,M+F,15,49,57,2.9,2.2,3.7,,,Harjutsalo (2011),,
+PR,Japan,1952,1979,M+F,0,30,28,3,1.9,4.2,,,Otani (2015),,
+PR,Japan,1980,1989,M+F,0,30,18,2.2,1.2,3.2,,,Otani (2015),,
+PR,Japan,1990,1999,M+F,0,30,6,1.6,0.3,2.9,,,Otani (2015),,
+PR,Japan,1952,1999,M,0,30,27,2.5,1.6,3.4,,,Otani (2015),,
+PR,Japan,1952,1999,F,0,30,25,3.2,1.9,4.4,,,Otani (2015),,
+PR,Taiwan,1999,2010,M,0,14,11,4.6,3.21,5.98,,,Lin (2014),,
+PR,Taiwan,1999,2010,M,15,29,37,5.97,4.99,6.95,,,Lin (2014),,
+PR,Taiwan,1999,2010,M,30,44,75,5.3,4.69,5.91,,,Lin (2014),,
+PR,Taiwan,1999,2010,M,45,60,30,2.24,1.83,2.65,,,Lin (2014),,
+PR,Taiwan,1999,2010,M,60,99,33,0.93,0.77,1.1,,,Lin (2014),,
+PR,Taiwan,1999,2010,M,0,99,186,2.66,2.46,2.85,,,Lin (2014),,
+PR,Taiwan,1999,2010,F,0,14,10,4.34,2.97,5.71,,,Lin (2014),,
+PR,Taiwan,1999,2010,F,15,29,44,12.91,10.96,14.86,,,Lin (2014),,
+PR,Taiwan,1999,2010,F,30,44,34,7.92,6.56,9.27,,,Lin (2014),,
+PR,Taiwan,1999,2010,F,45,60,25,4.55,3.64,5.46,,,Lin (2014),,
+PR,Taiwan,1999,2010,F,60,99,34,1.28,1.06,1.5,,,Lin (2014),,
+PR,Taiwan,1999,2010,F,0,99,147,3.58,3.28,3.87,,,Lin (2014),,
+PR,"United Kingdom, Yorkshire",1978,1995,M+F,0,4,3,2.96,6,8.68,,,Warner (1998),,
+PR,"United Kingdom, Yorkshire",1978,1995,M+F,5,9,3,8.14,16.4,23.77,,,Warner (1998),,
+PR,"United Kingdom, Yorkshire",1978,1995,M+F,10,14,4,2.41,2.7,8.68,,,Warner (1998),,
+PR,"United Kingdom, Yorkshire",1978,1995,M+F,15,19,10,4.42,21.2,8.13,,,Warner (1998),,
+PR,"United Kingdom, Yorkshire",1978,1995,M+F,20,24,4,2.41,6.5,6.17,,,Warner (1998),,
+PR,"United Kingdom, Yorkshire",1978,1995,M+F,25,29,4,6.61,17.8,16.93,,,Warner (1998),,
+PR,"United Kingdom, Yorkshire",1978,1995,M+F,30,34,0,0,0,0,,,Warner (1998),,
+PR,"United Kingdom, Yorkshire",1978,1995,M+F,0,34,26,2.47,1.61,3.62,,,Warner (1998),,
+PR,United Kingdom,1989,2012,M+F,0,14,10,4.43,2.12,8.15,,,Morgan (2018),,
+PR,United Kingdom,1989,2012,M+F,15,19,10,2.04,9.8,3.76,,,Morgan (2018),,
+PR,United Kingdom,1989,2012,M+F,20,24,9,1.9,8.7,3.61,,,Morgan (2018),,
+PR,United Kingdom,1989,2012,M+F,25,29,17,5.4,3.14,8.64,,,Morgan (2018),,
+PR,United Kingdom,1989,2012,M+F,30,34,6,2.85,1.04,6.2,,,Morgan (2018),,
+PR,United Kingdom,1989,2012,M+F,35,99,7,2.52,1.01,5.19,,,Morgan (2018),,
+PR,United Kingdom,1989,2012,M+F,0,99,59,2.96,2.26,3.82,,,Morgan (2018),,
+PR,United Kingdom,1978,2013,M+F,0,30,229,4.3,3.8,4.9,,,Evans-cheung (2018),,
+PR,USA,2002,2008,M+F,0,19,26,0.7,,,,,Reynolds (2018),,

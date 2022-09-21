@@ -1,0 +1,16 @@
+  Error in readChar(con, 5L, useBytes = TRUE): cannot open the connection
+ 
+  Error: `path` does not exist: ‘data_onset/offline_template.xlsx’
+ 
+  Error: `path` does not exist: ‘data_onset/offline_template.xlsx’
+ 
+  Error: `path` does not exist: ‘data_onset/offline_template.xlsx’
+ 
+  Error: `path` does not exist: ‘data_onset/offline_template.xlsx’
+ 
+India  Error in system.file("data/test.db", package = "T1DModel", mustWork = TRUE): no file found
+ 
+India  Error in get_complication_parameters(): object 'weib' not found
+ 
+India  Error in extract_for_purpose(prev_merge_wide, 0, 99, 2022): could not find function "extract_for_purpose"
+ 

@@ -1,0 +1,212 @@
+country,iso3c,ASIR
+Afghanistan,AFG,3.0
+Albania,ALB,7.2
+Algeria,DZA,28.5
+Andorra,#N/A,16.6
+Angola,AGO,2.5
+Antigua and Barbuda,ATG,3.1
+Argentina,ARG,6.2
+Armenia,ARM,6.5
+Aruba,ABW,0.1
+Australia,AUS,22.1
+Austria,AUT,18.4
+Azerbaijan,AZE,6.6
+Bahamas,BHS,8.9
+Bahrain,BHR,3.0
+Bangladesh,BGD,1.3
+Barbados,BRB,4.4
+Belarus,BLR,5.2
+Belgium,BEL,16.9
+Belize,BLZ,5.5
+Benin,BEN,2.5
+Bermuda,#N/A,2.0
+Bhutan,BTN,4.0
+Bolivia (Plurinational State of),BOL,2.0
+Bosnia and Herzegovina,BIH,7.4
+Botswana,BWA,2.5
+Brazil,BRA,15.0
+British Virgin Islands,#N/A,15.1
+Brunei Darussalam,BRN,1.0
+Bulgaria,BGR,8.8
+Burkina Faso,BFA,2.5
+Burundi,BDI,2.5
+Cambodia,KHM,1.0
+Cameroon,CMR,2.5
+Canada,CAN,26.8
+Cape Verde,CPV,2.5
+Cayman Islands,#N/A,2.0
+Central African Republic,CAF,2.5
+Chad,TCD,2.5
+Channel Islands,CHI,27.5
+Chile,CHL,12.8
+China,CHN,1.8
+Colombia,COL,1.2
+Comoros,COM,3.5
+Costa Rica,CRI,1.2
+Côte d'Ivoire,#N/A,2.5
+Croatia,HRV,16.1
+Cuba,CUB,2.1
+Curaçao,CUW,0.1
+Cyprus,CYP,13.5
+Czech Republic,CZE,20.4
+Democratic People's Republic of Korea,PRK,3.3
+Democratic Republic of the Congo,COD,2.5
+Denmark,DNK,25.3
+Djibouti,DJI,1.2
+Dominica,#N/A,5.0
+Dominican Republic,DOM,0.5
+Ecuador,ECU,1.2
+Egypt,EGY,3.6
+El Salvador,SLV,5.7
+Equatorial Guinea,GNQ,2.5
+Eritrea,ERI,1.2
+Estonia,EST,16.0
+Ethiopia,ETH,1.3
+Faroe Islands,#N/A,25.3
+Federated States of Micronesia,FSM,0.1
+Fiji,FJI,0.9
+Finland,FIN,58.3
+France,FRA,17.7
+French Polynesia,PYF,0.9
+Gabon,GAB,2.5
+Gambia,GMB,2.5
+Georgia,GEO,4.3
+Germany,DEU,22.7
+Ghana,GHA,2.5
+Greece,GRC,14.8
+Greenland,#N/A,25.3
+Grenada,GRD,4.4
+Guam,GUM,0.1
+Guatemala,GTM,5.7
+Guinea,GIN,2.5
+Guinea-Bissau,GNB,2.5
+Guyana,GUY,0.1
+Haiti,HTI,0.4
+Honduras,HND,5.7
+Hong Kong China,HKG,2.1
+Hungary,HUN,18.8
+Iceland,ISL,13.8
+India,IND,4.0
+Indonesia,IDN,1.0
+Iraq,IRQ,3.8
+Ireland,IRL,25.7
+Islamic Republic of Iran,IRN,4.0
+Israel,ISR,17.3
+Italy,ITA,15.5
+Jamaica,JAM,2.0
+Japan,JPN,2.3
+Jordan,JOR,3.8
+Kazakhstan,KAZ,1.8
+Kenya,KEN,1.5
+Kiribati,KIR,0.9
+Kuwait,KWT,48.9
+Kyrgyzstan,KGZ,1.8
+Lao People's Democratic Republic,LAO,1.0
+Latvia,LVA,7.0
+Lebanon,LBN,3.8
+Lesotho,LSO,1.5
+Liberia,LBR,2.5
+Libya,LBY,10.6
+Liechtenstein,#N/A,12.5
+Lithuania,LTU,18.6
+Luxembourg,LUX,17.4
+Macau China,#N/A,2.1
+Macedonia,MKD,7.2
+Madagascar,MDG,1.5
+Malawi,MWI,1.5
+Malaysia,MYS,1.0
+Maldives,MDV,3.3
+Mali,MLI,2.5
+Malta,MLT,20.5
+Marshall Islands,#N/A,0.1
+Mauritania,MRT,2.5
+Mauritius,MUS,1.5
+Mexico,MEX,5.5
+Moldova,MDA,7.2
+Monaco,#N/A,17.7
+Mongolia,MNG,1.8
+Montenegro,MNE,17.3
+Morocco,MAR,28.5
+Mozambique,MOZ,1.5
+Myanmar,MMR,1.0
+Namibia,NAM,2.5
+Nauru,#N/A,0.1
+Nepal,NPL,4.0
+Netherlands,NLD,19.8
+New Caledonia,NCL,0.9
+New Zealand,NZL,21.0
+Nicaragua,NIC,5.7
+Niger,NER,2.5
+Nigeria,NGA,2.5
+Norway,NOR,31.4
+Oman,OMN,3.0
+Pakistan,PAK,0.6
+Palau,#N/A,0.1
+Panama,PAN,1.2
+Papua New Guinea,PNG,0.1
+Paraguay,PRY,0.8
+Peru,PER,0.5
+Philippines,PHL,1.0
+Poland,POL,16.0
+Portugal,PRT,12.4
+Puerto Rico,PRI,15.4
+Qatar,QAT,33.3
+Republic of Congo,COG,2.5
+Republic of Korea,KOR,3.3
+Romania,ROU,7.2
+Russian Federation,RUS,11.6
+Rwanda,RWA,2.5
+Samoa,WSM,0.9
+San Marino,#N/A,15.5
+Sao Tome and Principe,STP,2.5
+Saudi Arabia,SAU,36.8
+Senegal,SEN,2.5
+Serbia,SRB,11.9
+Seychelles,SYC,3.5
+Sierra Leone,SLE,2.5
+Singapore,SGP,2.5
+Sint Maarten,#N/A,4.4
+Slovakia,SVK,12.7
+Slovenia,SVN,15.3
+Solomon Islands,SLB,0.1
+Somalia,SOM,1.2
+South Africa,ZAF,1.5
+South Sudan,SSD,1.5
+Spain,ESP,16.6
+Sri Lanka,LKA,4.0
+St Kitts and Nevis,#N/A,4.4
+St Lucia,LCA,4.4
+St Vincent and the Grenadines,VCT,4.4
+State of Palestine,PSE,3.8
+Sudan,SDN,11.8
+Suriname,SUR,0.1
+Swaziland,SWZ,1.5
+Sweden,SWE,40.9
+Switzerland,CHE,12.5
+Syrian Arab Republic,SYR,3.8
+Taiwan,#N/A,6.6
+Tajikistan,TJK,2.4
+Thailand,THA,1.0
+Timor L'Este,TLS,1.0
+Togo,TGO,2.5
+Tonga,TON,0.9
+Trinidad and Tobago,TTO,4.4
+Tunisia,TUN,8.5
+Turkey,TUR,10.5
+Turkmenistan,TKM,10.5
+Tuvalu,#N/A,0.9
+Uganda,UGA,2.5
+Ukraine,UKR,7.4
+United Arab Emirates,ARE,3.0
+United Kingdom,GBR,27.5
+United Republic of Tanzania,TZA,1.5
+United States,USA,20.8
+Uruguay,URY,7.6
+United States Virgin Islands,VIR,15.1
+Uzbekistan,UZB,2.4
+Vanuatu,VUT,0.9
+Venezuela,VEN,0.1
+Viet Nam,VNM,1.0
+Yemen,YEM,3.0
+Zambia,ZMB,1.5
+Zimbabwe,ZWE,1.5
