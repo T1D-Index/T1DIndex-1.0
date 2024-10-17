@@ -1,6 +1,7 @@
 # T1DIndex   
-Version 1.0
+
 https://t1dindex.shinyapps.io/dashboard/
+
 # Platform and notes
 The codebase is currently configured to run on Windows 10 Pro with R version 4.2.0,  Assuming you are using Rstudio, you will be required to download a number of packages that is required for this codebase to run properly.  
 ALso check to make sure these packages are also installed :
